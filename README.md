@@ -74,13 +74,13 @@ The project demonstrates:
 #### Query 6: Subquery & Aggregation
 - **Purpose:** Find bookings with cost higher than average
 - **Concepts Used:** Subquery in WHERE clause, AVG() aggregate function
-- **Calculation:** Average = 138.00, filters for > 138
-- **Returns:** 3 bookings (all at 150.00)
+- **Calculation:** Average = 138, filters for > 138
+- **Returns:** 3 bookings (all at 150)
 
 #### Query 7: Pagination
 - **Purpose:** Retrieve 2nd and 3rd most expensive matches
 - **Concepts Used:** ORDER BY DESC, LIMIT, OFFSET for pagination
-- **Returns:** 2 matches (Bayern Munich at 130.00, Man City at 120.00)
+- **Returns:** 2 matches (Bayern Munich at 130, Man City at 120)
 
 ---
 
