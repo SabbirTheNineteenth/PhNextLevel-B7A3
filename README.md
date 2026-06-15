@@ -36,15 +36,7 @@ The project demonstrates:
 ### **Part 2: SQL Implementation**
 
 **Contains:**
-1. **DDL (Data Definition Language):**
-   - DROP TABLE statements (if exists)
-   - CREATE TABLE for Users, Matches, Bookings
-   - All constraints (PK, FK, UNIQUE, CHECK)
-
-2. **DML (Data Manipulation Language):**
-   - INSERT sample data (4 users, 5 matches, 5 bookings)
-
-3. **SQL Queries (7 total):**
+1. **SQL Queries (7 total):**
 
 #### Query 1: Filter by Tournament & Status
 - **Purpose:** Retrieve all Champions League matches with 'Available' status
